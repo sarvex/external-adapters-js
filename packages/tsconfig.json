@@ -534,6 +534,9 @@
       "path": "./sources/tradermade"
     },
     {
+      "path": "./sources/tradermade-test"
+    },
+    {
       "path": "./sources/tradingeconomics"
     },
     {
