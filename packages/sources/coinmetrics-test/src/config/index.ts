@@ -26,6 +26,11 @@ export const customSettings = {
     type: 'string',
     default: 'https://api.coinmetrics.io/v4',
   },
+  WS_ENABLED: {
+    description: 'Whether data should be returned from websocket or not',
+    type: 'boolean',
+    default: false,
+  },
 } as const
 
 export const priceInputParameters: InputParameters = {

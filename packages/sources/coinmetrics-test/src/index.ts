@@ -4,7 +4,7 @@ import { customSettings } from './config'
 import { priceRouter } from './endpoint'
 
 export const adapter = new Adapter({
-  defaultEndpoint: 'price-ws',
+  defaultEndpoint: priceRouter.name,
   name: 'COINMETRICS',
   endpoints: [priceRouter],
   customSettings,
