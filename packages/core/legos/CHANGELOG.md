@@ -1,5 +1,12 @@
 # @chainlink/ea
 
+## 1.3.62
+
+### Patch Changes
+
+- Updated dependencies
+  - @chainlink/ncfx-adapter@3.1.0
+
 ## 1.3.61
 
 ### Patch Changes
