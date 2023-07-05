@@ -10126,10 +10126,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@grpc/grpc-js", [\
-        ["npm:1.7.1", {\
-          "packageLocation": "./.yarn/cache/@grpc-grpc-js-npm-1.7.1-2f8e3ccbdf-ffa9f05122.zip/node_modules/@grpc/grpc-js/",\
+        ["npm:1.8.17", {\
+          "packageLocation": "./.yarn/cache/@grpc-grpc-js-npm-1.8.17-420a6f3a9d-0ac8cd7342.zip/node_modules/@grpc/grpc-js/",\
           "packageDependencies": [\
-            ["@grpc/grpc-js", "npm:1.7.1"],\
+            ["@grpc/grpc-js", "npm:1.8.17"],\
             ["@grpc/proto-loader", "npm:0.7.3"],\
             ["@types/node", "npm:18.8.3"]\
           ],\
@@ -22168,7 +22168,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/ipfs-grpc-server-npm-0.7.4-cc3283202d-10a42bac8a.zip/node_modules/ipfs-grpc-server/",\
           "packageDependencies": [\
             ["ipfs-grpc-server", "npm:0.7.4"],\
-            ["@grpc/grpc-js", "npm:1.7.1"],\
+            ["@grpc/grpc-js", "npm:1.8.17"],\
             ["change-case", "npm:4.1.2"],\
             ["coercer", "npm:1.1.2"],\
             ["debug", "virtual:40f53b1ba1d401651db5200a9f0e185d9eec8e29ee543f0cc61943e48cfea842697b714f8870e4f57da4c0ae44d4f0d34db9ce53ec0b421028713432ce63c183#npm:4.3.4"],\
